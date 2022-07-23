@@ -1,0 +1,15 @@
+{
+  "name": "@huiquan.d/githubremotecreate",
+  "version": "0.1.0",
+  "main": "index.js",
+  "bin": "lib/cli.js",
+  "author": "denghuiquan@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "colors": "^1.4.0",
+    "ini": "^3.0.0",
+    "octokit": "^2.0.4"
+  },
+  "devDependencies": {}
+}
