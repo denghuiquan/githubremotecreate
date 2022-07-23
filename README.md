@@ -1,10 +1,10 @@
 # githubremotecreate
 
-Project Url: [https://api.github.com/repos/denghuiquan/githubremotecreate](https://api.github.com/repos/denghuiquan/githubremotecreate)
+Project Url: [https://github.com/denghuiquan/githubremotecreate](https://github.com/denghuiquan/githubremotecreate)
 
 # githubremotecreate-cli
 
-Project Url: [https://api.github.com/repos/denghuiquan/githubremotecreate-cli](https://api.github.com/repos/denghuiquan/githubremotecreate-cli)
+Project Url: [https://github.com/denghuiquan/githubremotecreate-cli](https://github.com/denghuiquan/githubremotecreate-cli)
 
 目录
 - 1. **步骤**
